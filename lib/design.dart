@@ -2,6 +2,8 @@ library design;
 
 export 'src/clippers/inner_box.dart';
 export 'src/clippers/pie.dart';
+export 'src/clippers/segmented_circle.dart';
+export 'src/clippers/rounded_triangle.dart';
 
 export 'src/gradients/moving.dart';
 
